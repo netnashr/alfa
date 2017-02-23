@@ -1,18 +1,16 @@
-1-zir sakht site
-2-structure homepage //
-3-upload file word pp pdf excel 
-4-view ro file upload shode + virayesh + delete 
+1-zir sakht site (git, sub domain,)
+2-structure homepage // (design)
+3-upload file word pp pdf excel ()
+4-view ro file upload shode + virayesh + delete (re upload)
 5-view be karbar neshon mide
 6-view to home page
 7-confirm admin
 8-comment rate
 9-safhe daste bandi + tarin ha + search
 10-favorit + follow 
-11-share/embed
-12-
-embed 
-share
-live validation
-VIP
-report
-gozaresh takhalof
+11-share/embed ()
+12-report (login user time + files ya userpages view download search + bazdid site + user chia ro mibinan va karbara chia ro) time
+13-suggestion
+14-VIP
+15-gozaresh takhalof
+
