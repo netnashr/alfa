@@ -5,16 +5,14 @@
 5-view be karbar neshon mide
 6-view to home page
 7-confirm admin
-8- 00000000000000
-
+8-comment rate
+9-safhe daste bandi + tarin ha + search
+10-favorit + follow 
+11-share/embed
+12-
 embed 
 share
-comment
-rate
-follow
-search
 live validation
-favorite
 VIP
 report
 gozaresh takhalof
